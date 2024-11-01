@@ -1,0 +1,6 @@
+[submodule "learnspace-backend"]
+	path = learnspace-backend
+	url = git@github.com:AlitPurnama/learnspace-backend.git
+[submodule "learnspace-frontend"]
+	path = learnspace-frontend
+	url = git@github.com:AlitPurnama/learnspace-frontend.git
